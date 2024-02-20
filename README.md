@@ -1,18 +1,40 @@
-### Hi there 👋
+# Aryan Maheshwari
 
-*My name is Aryan
+## Welcome to My GitHub Page
 
-<!--
-**maheshwariaryan/maheshwariaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Aryan, a Computer Science Freshman at the University of Wisconsin-Madison. I have a passion for technology and am always eager to learn and explore new areas in computer science. This page showcases some of my projects and highlights my skills and interests.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing a B.S. in Computer Science at UW-Madison
+- 💻 Passionate about software development, machine learning, and cybersecurity
+- 🌱 Continuously learning and experimenting with new technologies
+- 📚 Eager to collaborate on projects that make a difference
+
+### Skills
+
+- **Programming Languages:** Python, Java, C++, JavaScript
+- **Web Development:** HTML, CSS, React.js
+- **Tools & Technologies:** Git, Docker, Kubernetes, AWS
+- **Databases:** MySQL, MongoDB
+
+### Projects
+
+Below are a few projects I've worked on. Please feel free to check them out:
+
+- **Project 1:** [Project Name](GitHub link) - A brief description of what the project does.
+- **Project 2:** [Project Name](GitHub link) - A brief description of what the project does.
+- **Project 3:** [Project Name](GitHub link) - A brief description of what the project does.
+
+For more details on my projects, please visit [my GitHub repositories](https://github.com/yourGitHubUsername).
+
+### Contact Me
+
+I'm always open to discussing new projects, opportunities, or anything tech. Feel free to reach out to me:
+
+- 📧 Email: [ary.maheshwari24@gmail.com](mailto:ary.maheshwari24@gmail.com)
+- 📱 Phone: +1 608-957-1692
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/yourLinkedInProfile)!
+
+Thank you for visiting my GitHub page!
