@@ -7,16 +7,16 @@ Hello! I'm Aryan, a Computer Science Freshman at the University of Wisconsin-Mad
 ### About Me
 
 - 🎓 Currently pursuing a B.S. in Computer Science at UW-Madison
-- 💻 Passionate about software development, machine learning, and cybersecurity
+- 💻 Passionate about software development, artifical intelligence, machine learning, and cybersecurity
 - 🌱 Continuously learning and experimenting with new technologies
 - 📚 Eager to collaborate on projects that make a difference
 
 ### Skills
 
-- **Programming Languages:** Python, Java, C++, JavaScript
+- **Programming Languages:** Python, Java
 - **Web Development:** HTML, CSS, React.js
-- **Tools & Technologies:** Git, Docker, Kubernetes, AWS
-- **Databases:** MySQL, MongoDB
+- **Tools & Technologies:** Git
+- **Databases:** MongoDB
 
 ### Projects
 
@@ -33,8 +33,7 @@ For more details on my projects, please visit [my GitHub repositories](https://g
 I'm always open to discussing new projects, opportunities, or anything tech. Feel free to reach out to me:
 
 - 📧 Email: [ary.maheshwari24@gmail.com](mailto:ary.maheshwari24@gmail.com)
-- 📱 Phone: +1 608-957-1692
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/yourLinkedInProfile)!
+Let's connect on [LinkedIn](https://www.linkedin.com/in/arymaheshwari)!
 
 Thank you for visiting my GitHub page!
