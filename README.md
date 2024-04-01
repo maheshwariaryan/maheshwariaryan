@@ -13,20 +13,16 @@ Hello! I'm Aryan, a Computer Science Freshman at the University of Wisconsin-Mad
 
 ### Skills
 
-- **Programming Languages:** Python, Java
+- **Programming Languages:** Python, Java, C, C++
 - **Web Development:** HTML, CSS, React.js
-- **Tools & Technologies:** Git
+- **Tools & Technologies:** Git, Microsoft Visual Studio Code
 - **Databases:** MongoDB
 
 ### Projects
 
-Below are a few projects I've worked on. Please feel free to check them out:
+- **Platformer Game:** [funplatformergame](https://github.com/maheshwariaryan/funplatformergame)
 
-- **Project 1:** [Project Name](GitHub link) - A brief description of what the project does.
-- **Project 2:** [Project Name](GitHub link) - A brief description of what the project does.
-- **Project 3:** [Project Name](GitHub link) - A brief description of what the project does.
-
-For more details on my projects, please visit [my GitHub repositories](https://github.com/yourGitHubUsername).
+For more details on my projects, please visit [my GitHub repositories](https://github.com/maheshwariaryan).
 
 ### Contact Me
 
